@@ -6,6 +6,7 @@
 [网易云课堂-吴恩达机器学习课程](https://study.163.com/course/courseMain.htm?courseId=1004570029''悬停显示'')
 ## 目录
 ### CHAPTER1:Welcome 
+* 1.1 [What is Machine Learning](https://github.com/LELCHRIST/MACHINE-LEARNING-NOTES/blob/master/WELCOME/What%20Is%20Machine%20Learning.md)
 ### CHAPTER2:Linear Regression with One Variable
 ### CHAPTER3:Linear Algebra
 ### CHAPTER4:Configuration
